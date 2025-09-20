@@ -1,7 +1,7 @@
-# 👋 Hey there, I'm Harizone Lopez!  
+# 👋, I'm Harizone Lopez!  
 
-Welcome to my GitHub profile! 🌟  
-I’m a **backend developer** and **AI enthusiast**, passionate about building web apps, creating smart solutions, and exploring new tech.
+### 👨‍💻 Backend dev | AI/ML enthusiast | Building web apps that solve problems | Python, Django, Flask, FastAPI 
+I’m a **backend developer** and **AI enthusiast**, passionate about building web apps, creating smart solutions, exploring new tech, and sharing my journey one commit at a time.
 
 ---
 
